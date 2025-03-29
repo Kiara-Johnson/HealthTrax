@@ -1,0 +1,13 @@
+body{
+    background-color: darkgrey;
+}
+
+header{
+    border-color: green;
+    border-style: solid;
+}
+
+.pageNav{
+    border-color: blue;
+    border-style: dashed;
+}
